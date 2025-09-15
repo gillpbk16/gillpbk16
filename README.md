@@ -6,5 +6,4 @@ Recent project: [Book Analytics Pipeline](https://github.com/gillpbk16/book-anal
 
 I am currently exploring machine learning model serving and data platforms.  
 
-[LinkedIn](https://www.linkedin.com/in/peter-gill-650472166/) 
-[Email](mailto:gillpbk@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/peter-gill-650472166/) | [Email](mailto:gillpbk@gmail.com)
